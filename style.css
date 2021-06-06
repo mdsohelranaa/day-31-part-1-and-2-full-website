@@ -198,4 +198,20 @@ img{
     box-shadow: 2.5px 4.33px 30px 0 rgba(64,87,191,0.2);
     padding: 40px;
 }
+.su{
+    position: relative;
+}
+.aa-q{
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+        top: -35px;
+        font-size: 5.5rem;
+        color: #cccccc;
+        opacity: 0.3;
+    }
+.bottom{
+    margin-top: 112px;
+}
+
 
